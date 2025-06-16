@@ -29,16 +29,15 @@ README.md
 
 
 ## 📸 Demo
-
-> Add a link to your video demo or GitHub Pages live preview here  
-> Example: [Live Demo]()
+ 
+> Live Demo: https://mayakhetan.github.io/OIBSIP_webdevelopement_task1/
 
 ## 📬 Contact
 
 Created by [Maya Khetan] – feel free to connect!
 
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/maya-khetan-19aa3132a/)
-- Email:khetanmaya2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/maya-khetan-19aa3132a/
+- Email: khetanmaya2@gmail.com
 
 ---
 
